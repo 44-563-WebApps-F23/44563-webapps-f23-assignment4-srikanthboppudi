@@ -18,3 +18,13 @@ background-color:lightblue;}
     color:rgb(219, 27, 27);
     font-size:20px;
 }
+.class{
+    border-style:  solid;
+    color:red;
+    margin: 100px 13em 15pt 10%;
+    padding: 25px 25px 25px 25px;
+    text-align: center;
+}
+.class tbody tr:nth-child(even){
+    background-color: #f2f2f2;
+}
