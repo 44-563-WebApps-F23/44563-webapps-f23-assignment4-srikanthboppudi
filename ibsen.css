@@ -1,0 +1,20 @@
+.speech{font-family:Arial;font-size:15px;color:black}
+
+.direction{font-family:'Times';
+font-size:35px;color:black;
+background-color: lightgreen}
+
+.direction:hover{
+color:brown;
+background-color:lightblue;}
+
+.class1{
+    font-family: 'Times';
+    color: rgb(241, 241, 82);
+    font-size:20px;
+}
+.class2{
+    font-family: 'Times';
+    color:rgb(219, 27, 27);
+    font-size:20px;
+}
