@@ -40,3 +40,23 @@ background-color:lightblue;}
     text-shadow: 3px 5px 4px rgb(202, 208, 85);
     border: 3px solid #e94040;
 }
+.bonus {
+    overflow: hidden;
+    background-color: #acef9f;
+    text-align: left;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.bonus a{
+    display: inline-block;
+    font-size: 20px;
+    padding: 5px 10px;
+    text-align: left;
+    color: rgb(212, 64, 64);
+}
+
+.bonus a:hover{
+    background-color: #486741;
+}
